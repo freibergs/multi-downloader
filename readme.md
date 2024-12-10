@@ -157,3 +157,10 @@ file1.mp4: 30%|█████████████                     | 12.
 - Use unique directories and logs for each user.
 
 These improvements would transform the script into a comprehensive and versatile download management system.
+
+## **License**
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software, provided the original license file is included in your distribution.  
+
+For full license details, see the [LICENSE](LICENSE) file included in this repository.
